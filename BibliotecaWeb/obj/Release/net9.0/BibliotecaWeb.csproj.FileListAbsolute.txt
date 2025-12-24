@@ -191,3 +191,4 @@ C:\Users\lukin\OneDrive\Desktop\TCC-FINAL-master\BibliotecaWeb\obj\Release\net9.
 C:\Users\lukin\OneDrive\Desktop\TCC-FINAL-master\BibliotecaWeb\obj\Release\net9.0\BibliotecaWeb.pdb
 C:\Users\lukin\OneDrive\Desktop\TCC-FINAL-master\BibliotecaWeb\obj\Release\net9.0\BibliotecaWeb.genruntimeconfig.cache
 C:\Users\lukin\OneDrive\Desktop\TCC-FINAL-master\BibliotecaWeb\obj\Release\net9.0\ref\BibliotecaWeb.dll
+C:\Users\lukin\OneDrive\Desktop\TCC-FINAL-master\BibliotecaWeb\obj\Release\net9.0\BibliotecaWeb.sourcelink.json
