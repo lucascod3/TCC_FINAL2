@@ -1,0 +1,64 @@
+﻿@page
+@model BibliotecaWeb.Pages.IndexModel
+
+<div style="text-align:center; margin-top:40px;">
+    <h2>Pesquise o seu livro:</h2>
+
+    <form method="get">
+        <input type="text"
+               name="Busca"
+               value="@Model.Busca"
+               placeholder="Digite o número ou nome do livro"
+               style="padding:10px; width:300px; font-size:16px;" />
+
+        <button type="submit"
+                style="padding:10px 20px; font-size:16px; margin-left:10px;">
+            Buscar
+        </button>
+    </form>
+</div>
+
+@if (Model.Livros != null && Model.Livros.Any())
+{
+    <table style="width:80%; margin:40px auto; border-collapse: collapse;" border="1">
+        <thead>
+            <tr>
+                <th>Número</th>
+                <th>Título</th>
+                <th>Autor</th>
+                <th>Ano</th>
+                <th>Descrição</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var livro in Model.Livros)
+            {
+                <tr>
+                    <td>@livro.Numero</td>
+                    <td>
+    @livro.Titulo
+
+    <a href="@livro.CapaUrl"
+       target="_blank"
+       style="margin-left:10px;
+              padding:4px 8px;
+              font-size:12px;
+              background:#007bff;
+              color:white;
+              text-decoration:none;
+              border-radius:4px;">
+        Ver capa
+    </a>
+</td>
+                    <td>@livro.Autor</td>
+                    <td>@livro.Ano</td>
+                    <td>@livro.Descricao</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p style="text-align:center; margin-top:20px;">Nenhum livro encontrado.</p>
+}

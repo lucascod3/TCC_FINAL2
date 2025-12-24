@@ -1,0 +1,15 @@
+C:\Users\lukin\OneDrive\Desktop\TCC\LivrosDetalhados\bin\Debug\net9.0\LivrosDetalhados.exe
+C:\Users\lukin\OneDrive\Desktop\TCC\LivrosDetalhados\bin\Debug\net9.0\LivrosDetalhados.deps.json
+C:\Users\lukin\OneDrive\Desktop\TCC\LivrosDetalhados\bin\Debug\net9.0\LivrosDetalhados.runtimeconfig.json
+C:\Users\lukin\OneDrive\Desktop\TCC\LivrosDetalhados\bin\Debug\net9.0\LivrosDetalhados.dll
+C:\Users\lukin\OneDrive\Desktop\TCC\LivrosDetalhados\bin\Debug\net9.0\LivrosDetalhados.pdb
+C:\Users\lukin\OneDrive\Desktop\TCC\LivrosDetalhados\obj\Debug\net9.0\LivrosDetalhados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukin\OneDrive\Desktop\TCC\LivrosDetalhados\obj\Debug\net9.0\LivrosDetalhados.AssemblyInfoInputs.cache
+C:\Users\lukin\OneDrive\Desktop\TCC\LivrosDetalhados\obj\Debug\net9.0\LivrosDetalhados.AssemblyInfo.cs
+C:\Users\lukin\OneDrive\Desktop\TCC\LivrosDetalhados\obj\Debug\net9.0\LivrosDetalhados.csproj.CoreCompileInputs.cache
+C:\Users\lukin\OneDrive\Desktop\TCC\LivrosDetalhados\obj\Debug\net9.0\LivrosDetalhados.dll
+C:\Users\lukin\OneDrive\Desktop\TCC\LivrosDetalhados\obj\Debug\net9.0\refint\LivrosDetalhados.dll
+C:\Users\lukin\OneDrive\Desktop\TCC\LivrosDetalhados\obj\Debug\net9.0\LivrosDetalhados.pdb
+C:\Users\lukin\OneDrive\Desktop\TCC\LivrosDetalhados\obj\Debug\net9.0\LivrosDetalhados.genruntimeconfig.cache
+C:\Users\lukin\OneDrive\Desktop\TCC\LivrosDetalhados\obj\Debug\net9.0\ref\LivrosDetalhados.dll
+C:\Users\lukin\OneDrive\Desktop\TCC\LivrosDetalhados\obj\Debug\net9.0\LivrosDetalhados.sourcelink.json
